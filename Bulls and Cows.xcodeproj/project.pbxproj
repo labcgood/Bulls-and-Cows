@@ -13,6 +13,7 @@
 		0DB415FD2B6CDF4A008C411E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0DB415FB2B6CDF4A008C411E /* Main.storyboard */; };
 		0DB415FF2B6CDF4E008C411E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0DB415FE2B6CDF4E008C411E /* Assets.xcassets */; };
 		0DB416022B6CDF4E008C411E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0DB416002B6CDF4E008C411E /* LaunchScreen.storyboard */; };
+		0DB4160A2B6CE971008C411E /* NaikaiFont-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0DB416092B6CE971008C411E /* NaikaiFont-Bold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0DB415FE2B6CDF4E008C411E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0DB416012B6CDF4E008C411E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0DB416032B6CDF4E008C411E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0DB416092B6CE971008C411E /* NaikaiFont-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NaikaiFont-Bold.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		0DB415F42B6CDF4A008C411E /* Bulls and Cows */ = {
 			isa = PBXGroup;
 			children = (
+				0DB416092B6CE971008C411E /* NaikaiFont-Bold.ttf */,
 				0DB415F52B6CDF4A008C411E /* AppDelegate.swift */,
 				0DB415F72B6CDF4A008C411E /* SceneDelegate.swift */,
 				0DB415F92B6CDF4A008C411E /* ViewController.swift */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0DB416022B6CDF4E008C411E /* LaunchScreen.storyboard in Resources */,
+				0DB4160A2B6CE971008C411E /* NaikaiFont-Bold.ttf in Resources */,
 				0DB415FF2B6CDF4E008C411E /* Assets.xcassets in Resources */,
 				0DB415FD2B6CDF4A008C411E /* Main.storyboard in Resources */,
 			);
